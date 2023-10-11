@@ -10,15 +10,15 @@ switch ($nomPort) {
 
     case "quiberon": 
 
-$nomDept = "Morbihan"; 
+    $nomDept = "Morbihan"; 
 
-break; 
+    break; 
 
     case "sauzon": 
 
-$nomDept = "Morbihan"; 
+      $nomDept = "Morbihan"; 
 
-break; 
+      break; 
 
     case "le palais": 
 
@@ -28,9 +28,9 @@ break;
 
     case "concarneau": 
 
-$nomDept = "Finistère"; 
+      $nomDept = "Finistère"; 
 
-break; 
+      break; 
 
     case "douarnenez": 
 
@@ -40,9 +40,9 @@ break;
 
     case "piriac-sur-mer": 
 
-$nomDept = "Loire-Atlantique"; 
+      $nomDept = "Loire-Atlantique"; 
 
-        break; 
+      break; 
 
     case "pornic": 
 
