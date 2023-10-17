@@ -1,0 +1,31 @@
+TP – Structures Alternatives
+    1- Solde d’un passager
+    1) Le type de structure de contrôle est une structure conditionnelle.
+    2) Le tableau :
+$sommeDue    |15   |258.90|0   |-45.20|
+$sommeDue <=0|FALSE|FALSE |TRUE|TRUE  |
+    3) Voir le fichier consosPassager.php
+
+    2- Solde d’un passager
+
+    1) Voir le fichier consosPassagerCorrection.php
+    3- Vitesse du bateau corrigé
+    1) Voici le tableau:
+$vitesseSaisie  |-7|3|0|-4|5|
+$vitesseCorrigee|0 |3|0|0 |5|
+    2) Voir le programme vitesseCroisiere.php
+    4- Ports et Département
+
+    1) C’est une structure de choix ou une structure de sélection.
+    2) voir le portsetDept.php
+
+    5- Ports et Départements (suite)
+    1) La fonction strtolower() permet de convertir une chaine de caractères en minuscules
+    2) Voir le programme portetDept-2.php
+
+    6- Devises
+
+    1) La fonction strtoupper() convertir une chaine de caractères en Majuscules.
+    2) Voir le fichier convEnEuros-2.php
+    3) Non, il est possible une structure de contrôle switch
+    4) Voir le fichier convEnEuros-4.php
