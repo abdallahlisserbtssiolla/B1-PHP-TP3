@@ -1,6 +1,6 @@
 <?php
 
-echo "Saisir la somme due par le passager: ";
+echo "Saisir la somme due par le passager:\n";
 $sommeDue = rtrim( fgets( STDIN ));
 
 if( $sommeDue > 0){
