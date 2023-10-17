@@ -1,6 +1,6 @@
 <?php 
 
-echo "Saisir le nom du port: "; 
+echo "Saisir le nom du port:\n"; 
 
 $nomPort = rtrim(fgets(STDIN)); 
 
